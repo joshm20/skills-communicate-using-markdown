@@ -3,7 +3,12 @@
 
 
 ## Header 2
+```java
+public class JavaEx{
 
+}
+```
+Use markdown syntax after the tildes.
 
 ### Header 3
 #### Header 4
