@@ -11,6 +11,11 @@ public class JavaEx{
 Use markdown syntax after the tildes.
 
 ### Header 3
+- [x] Create list example
+- [x] Be awesome
+- [ ] Profit?
+
+
 #### Header 4
 ##### Header 5
 ###### Header 6
